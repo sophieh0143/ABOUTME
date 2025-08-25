@@ -173,9 +173,7 @@ Images are found using google browser
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Swedish Flag" style="height:50px; vertical-align:middle; margin-right:10px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="German Flag" style="height:50px; vertical-align:middle; margin-right:10px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italian Flag" style="height:50px; vertical-align:middle; margin-right:10px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" alt="British Flag" style="height:50px; vertical-align:middle; margin-right:10px;" />
-
-
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="American Flag" style="height:50px; vertical-align:middle; margin-right:10px;" />
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
