@@ -66,7 +66,7 @@ Images are found using google browser
 - 😋 My favorite food is pasta!
 - 🔥 I love spicy food!
 - 👟 My shoe size is 7 in womens
-- I LOVE CATS!!!
+- I LOVE CATS!!!!
 
 #### 🎂🎉My Birthday!🎉🎂
 - October 22, 2010! (I'm a Libra) ♎ 
