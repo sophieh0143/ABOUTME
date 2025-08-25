@@ -1,10 +1,10 @@
 ---
 layout: base
-title: I'm Sophie Haas
+title: I'm Sophie Haas!
 hide: true
 ---
 
-Hi! My name is Sophie Haas
+Hi! My name is Sophie Haas!
 
 ### Development Environment
 
